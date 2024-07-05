@@ -1,0 +1,89 @@
+
+
+DhiWise Register Api	
+https://apirunner.dhiwise.com/?app=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjsYyY2VhYTQ3NTViMmIwMDFjZTQ4MzI0IiwiX2lkIjoiNjYyY2VhYTQ3NTViMmIwMDFjZTQ4MzI0In0sImNvbXBhbnlJZCI6IjY2MmNlYWE0NzU1YjJiMDAxY2U0ODMyNiIsImFwcGxpY2F0aW9uSWQiOiI2NjMyMTVhMjRmMzE0ZTAwMTcwMTQyZTgiLCJpYXQiOjE3MTQ1NTgzNzF9.a5k9jArPl02yz6N9DT0v7MHR5zJF9aUH3vJHPKlVH3k&routeId=663215a34f314e00170142ec
+
+DhiWise Login Api
+https://apirunner.dhiwise.com/?app=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjYyY2VhYTQ3NTViMmIwMDFjZTQ4MzI0IiwiX2lkIjoiNjYyY2VhYTQ3NTViMmIwMDFjZTQ4MzI0In0sImNvbXBhbnlJZCI6IjY2MmNlYWE0NzU1YjJiMDAxY2U0ODMyNiIsImFwcGxpY2F0aW9uSWQiOiI2NjMyMTVhMjRmMzE0ZTAwMTcwMTQyZTgiLCJpYXQiOjE3MTQ1NTgzNzF9.a5k9jArPl02yz6N9DT0v7MHR5zJF9aUH3vJHPKlVH3k&routeId=663215a34f314e00170142f5
+
+Helthio Figma Design
+https://www.figma.com/file/yFlCzft7wpwgWpdAaJl4HH/Helthio---Medical-App?type=design&node-id=1409-62&mode=design&t=oAZqp5SjK4nzcBnb-0
+
+JsonPlaceHolder
+https://jsonplaceholder.typicode.com/
+
+Email Validate 
+https://www.tutorialspoint.com/how-should-i-validate-an-e-mail-address-in-android-using-kotlin
+
+ext version of dependency
+https://qiita.com/ekzemplaro/items/89f7ad27e56cfb47757a
+
+Migrate roomdatabase
+https://developer.android.com/training/data-storage/room/migrating-db-versions#kotlin_2
+
+Room Migration 
+https://github.com/himanshuGaur684/Room_MIgrationS
+https://medium.com/@arjunnarikkuni00/auto-migration-with-specification-room-database-1bc38884bfe2
+https://github.com/philipplackner/AndroidRoomMigration/blob/master/app/build.gradle
+https://stackoverflow.com/questions/74372959/room-database-migration-with-missing-1-json-schema-file
+
+Drop name means delete 
+https://stackoverflow.com/questions/60012776/drop-column-room-migration-android
+
+Google Certified android developer 
+https://github.com/Younes-Charfaoui?tab=repositories&q=&type=&language=&sort=
+
+Replace square in immutabe and mutablelist
+https://stackoverflow.com/questions/7536154/remove-brackets-from-a-list-set-to-a-textview
+
+MutableListTo
+https://stackoverflow.com/questions/63073372/how-to-add-mutablelist-to-an-other-mutablelist-kotlin
+
+https://www.scaler.com/topics/mutablesetof-kotlin/
+
+//DaggerHilt
+https://medium.com/@nirav.tukadiya/mastering-dependency-injection-in-android-using-dagger-hilt-a-complete-tutorial-with-kotlin-6f4d9087ae85
+https://dagger.dev/hilt/gradle-setup
+
+//Camera Sample
+ https://github.com/android/camera-samples
+
+//Adb Settings EditConfiguration for Window10 
+https://developer-docs.magicleap.cloud/docs/guides/developer-tools/android-debug-bridge/adb-setup/
+https://medium.com/@yadav-ajay/a-step-by-step-guide-to-setting-up-adb-path-on-windows-0b833faebf18#:~:text=Click%20on%20%E2%80%9CAdvanced%20system%20settings,e.g.%2C%20C%3A%5Cadb).
+
+//Latest ViewModel 
+https://medium.com/@gobinda.paul.1547/how-to-use-android-viewmodel-with-hilt-dependency-6c66e07cf5c4
+
+Source code here: https://github.com/the-android-factor...
+Jetpack Compose Basics: https://developer.android.com/codelab... 
+
+
+Hilt docs: https://developer.android.com/trainin...
+Retrofit docs: https://square.github.io/retrofit/
+Moshi docs: https://github.com/square/moshi/
+
+https://www.youtube.com/watch?v=23Gj0z88H2U&t=97s&ab_channel=TheAndroidFactory
+https://medium.com/tompee/kotlin-annotations-and-reflection-caa0d73bf39b
+
+https://www.youtube.com/watch?v=64hHvlR-d4k&list=PLRKyZvuMYSIOSigPsU9_tbO0uDyaZ8Ycf&ab_channel=CheezyCode
+
+https://www.youtube.com/watch?v=23Gj0z88H2U&t=97s&ab_channel=TheAndroidFactory
+
+https://fakestoreapi.com/
+https://github.com/CheezyCode/DaggerMVVM
+
+FragmentContainerView
+https://www.youtube.com/watch?v=h-NcxT697Nk&t=8s&ab_channel=Foxandroid
+
+Fragment LifeCycle
+https://www.youtube.com/watch?v=VWHQQHBViCU&t=20s&ab_channel=8thSimplifiedLearning
+Source Code : https://drive.google.com/file/d/18Gv1...
+
+Configure Change thay jem ke protrait screen ne landscap screen thay mobile ma tyate saveInstnceState Call thay che
+https://www.google.com/search?sca_esv=abfaf7a898a2efc2&sca_upv=1&sxsrf=ADLYWIIiG7ikZLxUWxbgObHCA31Yi7Wrkw:1719382138364&q=how+to+call+saveinsta+instance+state+in+fragment+android&tbm=vid&source=lnms&fbs=AEQNm0CrHVBV9axs7YmgJiq-TjYcq_vGFrXVvgLrV7h148vwFu3eQ_n4Tpxnx6XIJmCKPJGOq49yMp1zIcn_DZKexFYDo3DI3grYjZiTGEayVZTIRhQYuio8FA6udns6UNJJgYV14LYoY26KWELaQJciiBPIo01TuZhs2ncXr76aL5fSnAvP_lDvEJvt6G_OAIQ_uzCoycAe&sa=X&ved=2ahUKEwiNndzMzfiGAxXvoK8BHUukKUYQ0pQJegQIERAB&biw=1536&bih=738&dpr=1.25#fpstate=ive&vld=cid:a4454938,vid:8DUykeROGyU,st:0
+
+https://www.youtube.com/watch?v=HFbsBJ-ERYU&ab_channel=NoobDeveloper
+
+Youtube PlayList Download Link
+https://downloaderto.com/envA/youtube-playlist-downloader
