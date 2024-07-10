@@ -88,5 +88,22 @@ https://www.youtube.com/watch?v=HFbsBJ-ERYU&ab_channel=NoobDeveloper
 Youtube PlayList Download Link
 https://downloaderto.com/envA/youtube-playlist-downloader
 
-How to add token in CrdentialManager 
+How to add github personal token in CrdentialManager 
 https://stackoverflow.com/questions/27087483/how-to-resolve-git-pull-fatal-unable-to-access-https-github-com-empty
+
+//BroadCastReciver
+https://medium.com/@hasperong/android-broadcast-and-receiver-21ef501ba34b
+
+//Message Read
+https://medium.com/@nikhil725051/how-to-read-sms-messages-on-android-java-a-step-by-step-guide-1bffcd85bd49
+
+https://www.drpaween.com/ohm/cs436/07%20SMS%20and%20broadcast%20receiver.pdf
+
+InAppPurchase
+https://medium.com/@mohitder444/how-to-implement-in-app-purchases-in-your-android-app-ab32fc73fa68
+
+PushNotification 
+https://www.geeksforgeeks.org/how-to-push-notification-in-android/?ref=ml_lbp
+
+YoutubeVideoDownload Hd Quality
+https://y2meta.app/en/download-youtube/dsZ7dw2yJeE
